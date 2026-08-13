@@ -10,9 +10,6 @@ public class Student extends User{
         super(name , cpf , email);
         this.course = course;
         this.group = group;
-
-
-
-
-    }
+        
+         }
 }

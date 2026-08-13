@@ -10,6 +10,9 @@ public abstract class user{
 
     
     
-    public void listarmetodos
+    public void listarmetodos(){
+        super(name,cpf,email);
+        ''
+    }
     }
 }

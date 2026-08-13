@@ -1,3 +1,8 @@
 public class Employee extends User{
-    private String cargo;
+    private String position;
+
+
+    public Employee (String position){
+        this.position = position;
+    }
 }
