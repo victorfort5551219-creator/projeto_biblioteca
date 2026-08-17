@@ -1,4 +1,4 @@
-public abstract class user{
+public abstract class User{
     private String name;
     private String cpf;
     private String email;
@@ -12,7 +12,7 @@ public abstract class user{
     
     public void listarmetodos(){
         super(name,cpf,email);
-        ''
+        '
     }
     }
 }
