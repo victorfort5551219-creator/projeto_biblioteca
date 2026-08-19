@@ -10,7 +10,7 @@ public abstract class User{
 
     
     
-    public void listarmetodos(){
+    public void listardados(){
         super(name,cpf,email);
         
     }
