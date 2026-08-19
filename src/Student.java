@@ -9,7 +9,6 @@ public class Student extends User{
     public Student (String name , String cpf , String email , String course , private int class){
         super(name , cpf , email);
         this.course = course;
-        this.group = group;
-        
+        this.group = group;        
          }
 }
