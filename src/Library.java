@@ -1,5 +1,4 @@
-public class library{
-    import java.util.ArrayList;
+import java.util.ArrayList;
 
 public class Library {
 
@@ -25,5 +24,4 @@ public class Library {
             u.listarInformacoes();
         }
     }
-}
 }
